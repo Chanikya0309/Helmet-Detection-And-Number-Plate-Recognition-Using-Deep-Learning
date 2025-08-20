@@ -29,9 +29,13 @@ Integrate models for real-time video input (CCTV or dashcam footage).
 Key Features:
 
 ✔ Automatic helmet detection
+
 ✔ Number plate extraction & OCR recognition
+
 ✔ Real-time video frame analysis
+
 ✔ Alert generation for violations
+
 ✔ Scalable for smart traffic & law enforcement systems
 
 Tools Recommended:
